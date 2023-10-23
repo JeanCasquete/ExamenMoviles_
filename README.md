@@ -1,3 +1,4 @@
-# CRUD-Room-MVVM-Compose-Android-Studio
+# EXAMEN MOVILES PRIMER PARCIAL
 
-"CRUD con Room usando MVVM en Jetpack Compose Kotlin Android Studio
+"EXAMEN USANDO SQLITE Y JETPACK COMPOSE
+
